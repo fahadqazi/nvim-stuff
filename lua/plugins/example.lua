@@ -148,6 +148,7 @@ return {
         "lua",
         "markdown",
         "markdown_inline",
+        "go",
         "python",
         "query",
         "regex",

@@ -14,12 +14,16 @@ return {
   { "lifepillar/vim-solarized8" },
   { "nvimdev/oceanic-material" },
   { "catppuccin/vim" },
-  "adibhanna/gruvdark.nvim",
+  { "rose-pine/neovim" },
+  { "Mofiqul/vscode.nvim" },
+  { "lunacookies/vim-colors-xcode" },
+  { "projekt0n/github-nvim-theme" },
+  { "adibhanna/gruvdark.nvim" },
+  { "NLKNguyen/papercolor-theme" },
   -- Configure LazyVim to load gruvbox
   {
     "LazyVim/LazyVim",
     opts = {
-      -- colorscheme = "oceanicNext",
       colorscheme = "gruvbox-material",
     },
   },
